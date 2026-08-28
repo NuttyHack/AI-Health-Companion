@@ -1,0 +1,346 @@
+# PROJECT: AI HEALTHCARE ASSISTANT — COMPLETE FEATURE EXPANSION
+
+You are building a professional, production-ready AI healthcare assistant for underserved communities, rural areas, and everyday users. This is NOT a simple chatbot and it must NEVER position itself as a replacement for doctors. The goal is to create an intelligent health companion that helps users understand their health, navigate healthcare systems, and receive personalized assistance.
+
+The application must feel futuristic, premium, intelligent, and trustworthy.
+
+## CORE PRODUCT VISION
+
+Build an AI-powered health operating system that:
+
+* Understands text, voice, images, and documents.
+* Maintains long-term memory for each user.
+* Detects health patterns and risks.
+* Assists users during emergencies.
+* Explains medical information in simple language.
+* Helps users navigate healthcare services.
+* Provides personalized recommendations.
+* Supports multiple languages.
+* Stores data securely across devices.
+
+The app should feel like "Jarvis for healthcare."
+
+---
+
+# FEATURE 1: PERSONAL HEALTH BRAIN
+
+Create a persistent AI memory system for every user.
+
+The AI must remember:
+
+* Previous symptoms.
+* Medical history.
+* Allergies.
+* Medications.
+* Surgeries.
+* Family history.
+* Lifestyle habits.
+* Previous conversations.
+* Health reports.
+* Emergency contacts.
+
+Examples:
+
+* "You reported headaches three times this month."
+* "Your cough is similar to symptoms you experienced two months ago."
+
+Requirements:
+
+* Health timeline.
+* Memory retrieval system.
+* User profile dashboard.
+* Search through medical history.
+
+---
+
+# FEATURE 2: AI HEALTH DETECTIVE
+
+The AI must automatically detect patterns and risks.
+
+Examples:
+
+* Recurring headaches.
+* Rising blood pressure.
+* Worsening symptoms.
+* Sleep-related issues.
+* Stress-related patterns.
+* Medication adherence problems.
+
+The AI should generate:
+
+* Weekly health insights.
+* Monthly summaries.
+* Risk scores.
+* Predictive alerts.
+
+Example:
+
+"Your symptoms have increased by 40% in the last month."
+
+---
+
+# FEATURE 3: ADVANCED VOICE AI
+
+Users should be able to talk naturally.
+
+Requirements:
+
+* Speech-to-text conversion.
+* Text-to-speech responses.
+* Natural conversation memory.
+* Multiple languages.
+* Voice interruption support.
+* Conversation summaries.
+
+Supported languages:
+
+* English.
+* isiZulu.
+* Afrikaans.
+* Sesotho.
+* Xhosa.
+* Tswana.
+
+---
+
+# FEATURE 4: AI VISION LAB
+
+The AI must analyze images and documents.
+
+Supported uploads:
+
+* Wounds.
+* Skin conditions.
+* Rashes.
+* Eyes.
+* Tongue.
+* Prescriptions.
+* Lab reports.
+* Medical forms.
+
+Capabilities:
+
+* OCR text extraction.
+* Medical explanation.
+* Risk assessment.
+* Highlight important information.
+* Explain prescriptions in simple language.
+
+Every response must include:
+
+* What was detected.
+* Confidence level.
+* Things to monitor.
+* When to seek medical care.
+
+---
+
+# FEATURE 5: AI MEDICAL COPILOT
+
+Before appointments:
+
+* Summarize symptoms.
+* Generate questions for doctors.
+* Create health reports.
+
+After appointments:
+
+* Explain prescriptions.
+* Explain diagnoses.
+* Explain medical terminology.
+* Suggest follow-up actions.
+
+Generate downloadable PDF reports.
+
+---
+
+# FEATURE 6: AI EMERGENCY INTELLIGENCE
+
+Add an emergency mode.
+
+Features:
+
+* Emergency button.
+* GPS location sharing.
+* Emergency contact notifications.
+* Medical profile sharing.
+* Allergy information.
+* Medication information.
+* Blood group display.
+
+Emergency report should include:
+
+* User name.
+* Age.
+* Allergies.
+* Medications.
+* Current symptoms.
+* Current location.
+
+The AI must recognize dangerous symptoms:
+
+* Chest pain.
+* Difficulty breathing.
+* Stroke symptoms.
+* Severe bleeding.
+* Loss of consciousness.
+
+Display:
+
+"Seek emergency medical assistance immediately."
+
+---
+
+# FEATURE 7: AI HEALTH NAVIGATOR
+
+Help users find healthcare services.
+
+Features:
+
+* Find nearby hospitals.
+* Find nearby clinics.
+* Find pharmacies.
+* Show opening hours.
+* Show estimated waiting times.
+* Show accepted medical aid providers.
+* Navigation support.
+
+Allow users to:
+
+* Request ambulance assistance.
+* Save favorite clinics.
+* Book appointments.
+
+---
+
+# FEATURE 8: AI RESEARCH ASSISTANT
+
+Allow users to ask medical questions.
+
+Examples:
+
+* "What foods help with iron deficiency?"
+* "Can these medications interact?"
+* "What causes migraines?"
+
+Requirements:
+
+* Search trusted medical databases.
+* Simplify complex information.
+* Explain in plain language.
+* Cite sources.
+
+Never present guesses as facts.
+
+---
+
+# FEATURE 9: AI FAMILY HEALTH MANAGER
+
+Allow users to manage family members.
+
+Supported profiles:
+
+* Parents.
+* Children.
+* Grandparents.
+* Partners.
+
+Capabilities:
+
+* Shared emergency contacts.
+* Family health timelines.
+* Medication reminders.
+* Alerts for elderly users.
+
+---
+
+# FEATURE 10: DIGITAL HEALTH TWIN
+
+Create an AI model of the user's health profile.
+
+Analyze:
+
+* Weight.
+* Sleep.
+* Activity.
+* Symptoms.
+* Medications.
+* Lifestyle.
+* Medical history.
+
+Allow questions like:
+
+* "What happens if I continue smoking?"
+* "How can I reduce my blood pressure?"
+* "What habits are affecting my health?"
+
+Generate:
+
+* Simulations.
+* Recommendations.
+* Risk assessments.
+
+---
+
+# USER AUTHENTICATION
+
+Implement professional authentication:
+
+* Email and password.
+* Google sign-in.
+* Secure sessions.
+* Password reset.
+* Multi-device sync.
+
+---
+
+# DATABASE REQUIREMENTS
+
+Store:
+
+* User profiles.
+* Symptom history.
+* Conversations.
+* Health reports.
+* Images.
+* Emergency contacts.
+* Medications.
+* Family members.
+
+Use a scalable architecture.
+
+---
+
+# PREMIUM SUBSCRIPTION (R99.99/MONTH)
+
+Premium users receive:
+
+* Unlimited AI chats.
+* Unlimited image analysis.
+* Advanced health insights.
+* Health reports.
+* Family accounts.
+* Emergency features.
+* Predictive analytics.
+* Priority responses.
+
+---
+
+# IMPORTANT RULES
+
+The AI must NEVER:
+
+* Claim to be a doctor.
+* Provide definitive diagnoses.
+* Replace emergency services.
+* Guarantee treatments.
+
+The AI must ALWAYS:
+
+* Encourage professional care when necessary.
+* Explain uncertainty.
+* Prioritize safety.
+* Protect user privacy.
+* Use clear language.
+
+The final product should feel premium, modern, intelligent, and trustworthy.

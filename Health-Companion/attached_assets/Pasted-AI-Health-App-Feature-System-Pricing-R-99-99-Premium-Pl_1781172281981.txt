@@ -1,0 +1,128 @@
+AI Health App — Feature System + Pricing (R 99.99 Premium Plan)
+💡 PRODUCT STRUCTURE
+
+You are building 3 layers:
+
+🟢 1. Free Layer (User acquisition)
+🔵 2. Premium Layer (R 99.99 subscription)
+🟣 3. Future Pro Health Layer (advanced expansion)
+🟢 FREE TIER (ENTRY PRODUCT)
+
+This is your “mass adoption layer”.
+
+🎯 Goal:
+
+Get users in fast, build trust.
+
+Features:
+💬 1. Basic AI Health Chat
+Users describe symptoms
+AI gives general health guidance
+Simple explanations (not deep analysis)
+🧾 2. Limited Daily Usage
+e.g. 5–10 chats per day
+prevents API cost explosion
+🚨 3. Emergency Guidance
+“If chest pain → seek emergency help”
+Basic safety detection rules
+📚 4. Basic Health Tips
+hydration advice
+rest recommendations
+common illness info
+🧠 5. Simple Symptom Checker
+keyword-based suggestions
+not advanced pattern tracking
+🔵 PREMIUM PLAN — R 99.99 / MONTH
+
+Now we build the real value engine.
+
+This is your “health intelligence system”
+
+💎 PREMIUM FEATURES (CORE VALUE)
+🧠 1. Full Health Memory System
+What it does:
+stores ALL past symptoms
+tracks timelines
+remembers conditions
+builds personal health profile
+Example:
+
+“You had similar symptoms 3 weeks ago after poor sleep”
+
+📊 2. AI Health Pattern Detection
+
+This is a BIG selling point.
+
+AI can detect:
+recurring headaches
+stress patterns
+possible chronic conditions
+lifestyle triggers
+Output:
+
+“Your symptoms appear every Monday–Wednesday → possible stress-related trigger”
+
+💬 3. Unlimited AI Conversations
+no daily limits
+continuous health support
+follow-up conversations allowed
+🖼️ 4. Medical Image Analysis
+
+Users can upload:
+
+rashes
+wounds
+skin irritation
+prescriptions
+AI does:
+visual analysis
+explanation of possible causes
+urgency level detection
+📄 5. Doctor-Ready Health Reports (VERY VALUABLE)
+Users can generate:
+PDF health summary
+symptom history report
+timeline of issues
+Use case:
+
+“Take this to a doctor”
+
+Doctors LOVE structured data like this.
+
+⚡ 6. Priority AI Processing
+faster responses
+deeper analysis mode
+more detailed explanations
+📅 7. Smart Health Timeline Dashboard
+
+Visual system showing:
+
+symptom history
+frequency tracking
+health trends
+warning flags
+🔔 8. Smart Reminders System
+medication reminders
+hydration reminders
+follow-up symptom checks
+appointment reminders
+🧠 9. Personalized Health Insights
+
+AI gives:
+
+lifestyle advice based on your patterns
+risk warnings
+prevention suggestions
+🚨 10. Advanced Emergency Detection
+stronger symptom recognition
+faster escalation warnings
+structured emergency summary (for EMS)
+🟣 OPTIONAL FUTURE “PRO LAYER” (not in R99 yet)
+
+This is where you scale later:
+
+telehealth booking inside app
+insurance integration
+doctor marketplace
+wearable integration (heart rate, sleep, etc.)
+family health accounts

@@ -31,7 +31,7 @@ Storage keys: @health_entries, @health_reminders, @health_profile, @vision_histo
 **Why:** expo-speech must be added manually — it is NOT in the default expo scaffold for this project.
 
 ## Auth
-Replit OIDC popup-based flow (popup window, not iframe). Handled in lib/auth.tsx. Root _layout.tsx renders login inline (no router navigation).
+
 
 ## AI quota note
 Gemini free tier hits 429 under heavy dev usage. The GEMINI_API_KEY needs billing credits for production use.

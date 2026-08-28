@@ -6,10 +6,10 @@ settings:
 
 catalogs:
   default:
-    '@replit/vite-plugin-cartographer':
+
       specifier: ^0.5.1
       version: 0.5.5
-    '@replit/vite-plugin-runtime-error-modal':
+ 
       specifier: ^0.0.6
       version: 0.0.6
     '@tailwindcss/vite':
@@ -456,10 +456,10 @@ importers:
       '@radix-ui/react-tooltip':
         specifier: ^1.2.8
         version: 1.2.8(@types/react-dom@19.2.3(@types/react@19.2.14))(@types/react@19.2.14)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
-      '@replit/vite-plugin-cartographer':
+    
         specifier: 'catalog:'
         version: 0.5.5
-      '@replit/vite-plugin-runtime-error-modal':
+ 
         specifier: 'catalog:'
         version: 0.0.6
       '@tailwindcss/vite':
@@ -2276,10 +2276,10 @@ packages:
   '@react-navigation/routers@7.5.6':
     resolution: {integrity: sha512-tV/vSXX1va9xCXcqmLqr8qn56ygkwiC9tYoEEWfkqvTCh8LR9FEG7ZVzHBkzrQ/2hJQz+j/3KoglGSHXYrOK4w==}
 
-  '@replit/vite-plugin-cartographer@0.5.5':
+
     resolution: {integrity: sha512-iEXsvofgEQb1BSjMflHfuqVbRhWqI7n8u5ESSH+cSoxHgX4Lk8wM7qHk1h7u1BZSwqmPn8ftsRFSN4IVvUzB5w==}
 
-  '@replit/vite-plugin-runtime-error-modal@0.0.6':
+
     resolution: {integrity: sha512-53iuzLsrvcUnWxAo0fvNrUhOf7LYJ+3at61dZeTIrkaZD4vGNjTbvE0j50TFcjjTC9UM74uprlnQ4+L2A//Cjg==}
 
   '@rolldown/pluginutils@1.0.0-rc.3':
@@ -8300,7 +8300,7 @@ snapshots:
     dependencies:
       nanoid: 3.3.12
 
-  '@replit/vite-plugin-cartographer@0.5.5':
+
     dependencies:
       '@babel/parser': 7.29.3
       '@babel/traverse': 7.29.0
@@ -8310,7 +8310,7 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  '@replit/vite-plugin-runtime-error-modal@0.0.6':
+
     dependencies:
       '@jridgewell/trace-mapping': 0.3.31
 

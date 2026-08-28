@@ -22,8 +22,6 @@ import * as SecureStore from "expo-secure-store";
 
 WebBrowser.maybeCompleteAuthSession();
 
-const ISSUER_URL =
-  process.env.EXPO_PUBLIC_ISSUER_URL ?? "https://replit.com/oidc";
 const TOKEN_KEY = "auth_session_token";
 const PKCE_KEY = "oauth_pkce";
 

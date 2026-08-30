@@ -7,3 +7,4 @@ onlyBuiltDependencies:
 
 catalog:
   '@types/node': '^20.0.0'
+  drizzle-orm': '^0.38.0'

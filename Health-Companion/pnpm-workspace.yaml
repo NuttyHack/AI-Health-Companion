@@ -4,3 +4,6 @@ packages:
 
 onlyBuiltDependencies:
   - esbuild
+
+catalog:
+  '@types/node': '^20.0.0'
